@@ -39,8 +39,8 @@ services:
         logging:
             driver: splunk
             options:
-                splunk-token: aa46b67d-b8db-4534-9192-e29c398311df
-                splunk-url: https://splunks.cyberdevops.es
+                splunk-token: YOUR_TOKEN
+                splunk-url: https:// OR http://
 
 volumes:
     persistent:
