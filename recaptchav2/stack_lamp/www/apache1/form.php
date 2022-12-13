@@ -34,7 +34,7 @@
                 -->
     <div
         class="g-recaptcha"
-        data-sitekey="6Ldv4ngjAAAAAOXqsxQho9NoXsR2di_KZgV62bFo">
+        data-sitekey="YOUR_TOKEN">
     </div>
     <br>
     <button type="submit" class="btn btn-primary mb-2">
