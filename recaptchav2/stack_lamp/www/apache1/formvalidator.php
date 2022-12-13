@@ -1,6 +1,6 @@
 <?php
 # Aquí pon la clave secreta que obtuviste en la página de developers de Google
-const CLAVE_SECRETA = "6Ldv4ngjAAAAAFmiuwbQLp-3dAf8f2_3Qm-cwyg5";
+const CLAVE_SECRETA = "YPU_SECURE_TOKEN";
 
 # Comprobamos si enviaron el dato
 if (!isset($_POST["g-recaptcha-response"]) || empty($_POST["g-recaptcha-response"])) {
